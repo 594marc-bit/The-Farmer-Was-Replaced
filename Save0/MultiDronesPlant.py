@@ -513,5 +513,4 @@ if num_drones() < max_drones():
 if num_drones() < max_drones():
 	spawn_drone(plant_section_15)
 
-
 plant_section_0()
