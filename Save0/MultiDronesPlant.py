@@ -512,5 +512,5 @@ if num_drones() < max_drones():
 	spawn_drone(plant_section_14)
 if num_drones() < max_drones():
 	spawn_drone(plant_section_15)
-
+#  主线程执行第0部分的种植任务
 plant_section_0()
